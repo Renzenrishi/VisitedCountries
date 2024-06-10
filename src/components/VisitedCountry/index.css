@@ -1,0 +1,24 @@
+.flag-item {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.flag {
+  height: 20vh;
+  width: 15vw;
+}
+
+.desc-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.remove-btn {
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
